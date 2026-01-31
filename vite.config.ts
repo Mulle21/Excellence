@@ -19,5 +19,6 @@ export default defineConfig({
     },
   },
   plugins: [react()],
-  base: process.env.VITE_BASE_PATH || "/excellence"
+  base: process.env.VITE_BASE_PATH || "/Excellence"
 }));
+
